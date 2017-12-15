@@ -6,7 +6,7 @@ public class CharEigenschaft {
 	
 	private String haarfarbe, augenfarbe1, augenfarbe2, hautfarbe;
 	private int alter;
-	private double grösse, gewicht;
+	private double groesse, gewicht;
 	private ArrayList<Merkmal> merkmal;
 	private Rasse rasse;
 	
